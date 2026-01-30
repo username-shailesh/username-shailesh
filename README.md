@@ -5,7 +5,7 @@ Fullstack WebDev / (AI/ML) developer
 ------------------------------------
 
 
-* 🌍  I'm based in Uttar Pradesh,India
+* 🌍  I'm based in Uttar Pradesh, India
 * ✉️  You can contact me at [Email](mailto:er.shaileshmaurya9409@gmail.com)
 * 🚀  I'm currently working on machine learning
 
