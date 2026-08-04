@@ -29,7 +29,7 @@ Fullstack WebDev / (AI/ML) developer
 |---------------------|------------------------------------|
 | **C**               | <img src="./icons/C.svg" style="width: 30px"> |
 | **C++**             | <img src="./icons/CPP.svg" style="width: 30px"> |
-| **Java**             | <img src="./icons/JAVA.svg" style="width: 30px"> |
+| **Java**             | <img src="./icons/Java.svg" style="width: 30px"> |
 
 ### 📊 Data Science and AI/ML
 | Technology          | Icon                               |
