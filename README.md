@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , I'm Shailesh Maurya
 =================================================================================================================================
 
-Fullstack WebDev / (AI/ML) developer
+Fullstack WebDev / Java Developer
 ------------------------------------
 
 
 * 🌍  I'm based in Uttar Pradesh, India
 * ✉️  You can contact me at [Email](mailto:er.shaileshmaurya9409@gmail.com)
-* 🚀  I'm currently working on machine learning
+* 🚀  I'm currently working on Java
 
 
 ## My Experience in Following Technologies:
@@ -19,7 +19,7 @@ Fullstack WebDev / (AI/ML) developer
 | **CSS**             | <img src="./icons/CSS.svg" style="width: 30px"> |
 | **Bootstrap**       | <img src="./icons/Bootstrap.svg" style="width: 30px"> |
 | **JavaScript**      | <img src="./icons/JavaScript.svg" style="width: 30px"> |
-| **Django**          | <img src="./icons/Django.svg" style="width: 30px"> |
+| **Java**          | <img src="./icons/java.svg" style="width: 30px"> |
 | **Node.js**         | <img src="./icons/NodeJS-Dark.svg" style="width: 30px"> |
 | **Express.js**      | <img src="./icons/ExpressJS-Dark.svg" style="width: 30px"> |
 | **React.js**        | <img src="./icons/React-Dark.svg" style="width: 30px"> |
@@ -27,17 +27,10 @@ Fullstack WebDev / (AI/ML) developer
 ### 🛠️ Programming and Scripting
 | Technology          | Icon                               |
 |---------------------|------------------------------------|
-| **C**               | <img src="./icons/C.svg" style="width: 30px"> |
-| **C++**             | <img src="./icons/CPP.svg" style="width: 30px"> |
 | **Java**             | <img src="./icons/Java.svg" style="width: 30px"> |
+| **Python**               | <img src="./icons/PY.svg" style="width: 30px"> |
+| **JavaScript**             | <img src="./icons/JS.svg" style="width: 30px"> |
 
-### 📊 Data Science and AI/ML
-| Technology          | Icon                               |
-|---------------------|------------------------------------|
-| **Python**          | <img src="./icons/PyCharm-Light.svg" style="width: 30px"> |
-| **NumPy**           | <img src="./icons/numpy.png" style="width: 30px"> |
-| **Pandas**          | <img src="./icons/pandas.png" style="width: 30px"> |
-| **OpenCV**          | <img src="./icons/OpenCV-Dark.svg" style="width: 30px"> |
 
 ### 📦 DevOps and Cloud
 | Technology          | Icon                               |
