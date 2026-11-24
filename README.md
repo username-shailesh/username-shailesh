@@ -19,8 +19,8 @@ Fullstack WebDev / Java Developer
 | **CSS**             | <img src="./icons/CSS.svg" style="width: 30px"> |
 | **Bootstrap**       | <img src="./icons/Bootstrap.svg" style="width: 30px"> |
 | **JavaScript**      | <img src="./icons/JavaScript.svg" style="width: 30px"> |
-| **Java**          | <img src="./icons/java.svg" style="width: 30px"> |
-| **Node.js**         | <img src="./icons/NodeJS-Dark.svg" style="width: 30px"> |
+| **Java**          | <img src="./icons/Java.svg" style="width: 30px"> |
+| **Spring Boot**         | <img src="./icons/Spring-Dark.svg" style="width: 30px"> |
 | **Express.js**      | <img src="./icons/ExpressJS-Dark.svg" style="width: 30px"> |
 | **React.js**        | <img src="./icons/React-Dark.svg" style="width: 30px"> |
 
