@@ -28,8 +28,8 @@ Fullstack WebDev / Java Developer
 | Technology          | Icon                               |
 |---------------------|------------------------------------|
 | **Java**             | <img src="./icons/Java.svg" style="width: 30px"> |
-| **Python**               | <img src="./icons/PY.svg" style="width: 30px"> |
-| **JavaScript**             | <img src="./icons/JS.svg" style="width: 30px"> |
+| **Python**               | <img src="./icons/Python-Dark.svg" style="width: 30px"> |
+| **JavaScript**             | <img src="./icons/JavaScript.svg" style="width: 30px"> |
 
 
 ### 📦 DevOps and Cloud
